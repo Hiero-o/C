@@ -29,7 +29,7 @@ int main () {
     scanf("%c", &n);
     printf ("Olá, %c tudo bem?\n", n);
 
-
+return 0;
 }
 
   

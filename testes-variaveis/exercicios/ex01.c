@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-void main () {
+int main () {
 
 
     //media
@@ -21,7 +21,7 @@ void main () {
 
     printf ("\n A media é %f", r);
 
-
+    return 0;
 
 
 

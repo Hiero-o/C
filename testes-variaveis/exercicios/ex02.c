@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-void main () {
+int main () {
 
     int a, b, r, ab;
 
@@ -22,5 +22,5 @@ void main () {
 
     system ("pause");
 
-
+return 0;
 }

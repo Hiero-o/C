@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-void main () {
+int main () {
     setlocale (LC_ALL,"Portuguese.Brazil.1252");
 
 int a = 5;
@@ -28,4 +28,6 @@ printf("%d", a);
     printf("O valor dos numeros eh: %d %d %d \n", a, b, c);
 
     system ("pause");
+
+    return 0;
 }

@@ -3,7 +3,7 @@
 
 
 
-void main () {
+int main () {
 
     int d, e, f, r;
     
@@ -21,4 +21,6 @@ void main () {
     
     system("pause");
 
+
+    return 0;
 }

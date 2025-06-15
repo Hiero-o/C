@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-void main () {
+int main () {
 
     int a = 5, b = 3;
 
@@ -36,6 +36,6 @@ printf("\nO valor absoluto o numero -3 eh: %d \n", abs(-3) );
 
 system ("pause");
 
-
+return 0;
 
 }
