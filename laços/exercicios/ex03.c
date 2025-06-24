@@ -21,12 +21,7 @@ int main () {
 
         i = 1;
 
-    } else {
-            
-        printf("\nValores incorretos! Digite novamente");
-
-
-    }
+    } 
 
     }
 
