@@ -17,11 +17,13 @@ int main () {
 
 
     for(i =2; i < p; i++) {
-
+        
         if(p % i == 0) {
+            
             r++;
             break;
         } 
+        
     }
 
     if(r == 0){
