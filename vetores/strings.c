@@ -10,7 +10,7 @@ int main () {
 
     printf("%s\n",p1);
 
-    printf("\nDigite uma palavra com ate 4 letras");
+    printf("\nDigite uma palavra com ate 4 letras\n");
     fflush(stdin);
     scanf("%s", p2);
 
@@ -20,7 +20,7 @@ int main () {
 
     fflush(stdin);
 
-    printf("Digite uma palavra:");
+    printf("\nDigite uma palavra:\n");
     fgets(VetorChar, sizeof(VetorChar), stdin);
 
     printf("Palavra recebida:");
